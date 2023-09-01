@@ -23,4 +23,3 @@ Practice working with SQLite databases, creating a command-line interface (CLI),
    - Define the display_items(cursor) function that queries the products table and displays product information.
    - Define the main() function that contains a loop for user interaction. Inside the loop, display the menu and perform the selected action based on user input.
    - Close the database connection when exiting the program.
-   
